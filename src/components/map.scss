@@ -1,0 +1,17 @@
+.location__btn {
+  $size: 60px;
+  position: absolute;
+  right: 20px;
+  bottom: 30px;
+  z-index: 500;
+  background-color: #ffff;
+  border-radius: 50%;
+  border: none;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+  width: $size;
+  height: $size;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
