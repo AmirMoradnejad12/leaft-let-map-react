@@ -47,7 +47,7 @@ export default function Map({ center }) {
         }
       );
     } else {
-      alert("Your divice not suport this!!");
+      alert("Your divice not suport this!!!");
     }
   };
 
